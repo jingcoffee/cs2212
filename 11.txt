@@ -1,0 +1,24 @@
+O DO: 
+4 parts 
+Do same thing for instructors 
+Look at code - connect everything
+
+Implement createReport(string) 
+
+
+abstractFactory + Factory method (model classes)
+Go through the factory pattern 
+Modify all the model classes - admin, instructor, student
+Classes have to provide functionality 
+Modify authenticated user classes - creating instances of when we¡¯re logging into users
+Log in as user or instructor then choose what you want to do 
+Being able to do so through command line 
+Model classes - implement functionality 
+Try to understand the code - and implementing the method
+TODO: add the stuff 
+Uncommenting - a different test harness
+Presentation:
+Working project 
+Implement most of the functionality
+Good documentation
+Github repository local
